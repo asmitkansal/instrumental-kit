@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+*{
+    background:rgb(214, 67, 9);
+    -webkit-background-clip: text;
+}
+#drum{
+    border-radius: 100%;
+    border: rgb(144, 199, 43);
+    height: 200px;
+    width: 200px;
+}
+#guitar{
+    width: 200px;
+height: 200px;
+border: rgb(144, 199, 43);
+border-radius: 100%;
+}
+#dhol{
+    width: 200px;
+    height: 200px;
+border-radius: 100%;
+border: rgb(144, 199, 43);
+}
+.ins{
+   font-size: 50px;
+   text-align: center;
+   visibility:visible;
+   font-family: poppins;
+   font-weight: 800px;
+   letter-spacing: 1px;
+   background: linear-gradient(135deg,#ff00d2,#fed90f,#ff00d2,#fed90f,#00a2ff);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
